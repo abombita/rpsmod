@@ -1,6 +1,6 @@
 
 
-class rpsMod {
+class RockPaperScissors {
 
     constructor(choice){
 
@@ -45,4 +45,4 @@ class rpsMod {
     };
 };
 
-module.exports = rpsMod;
+module.exports = RockPaperScissors;
