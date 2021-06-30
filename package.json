@@ -1,0 +1,19 @@
+{
+  "name": "rpsmod",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissors Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abombita/rpsmod.git"
+  },
+  "author": "Astraea Bombita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abombita/rpsmod/issues"
+  },
+  "homepage": "https://github.com/abombita/rpsmod#readme"
+}
